@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌸+KANISHMADHAV+WIZARD+🌸;フルスタック開発者;Full-Stack+Developer+✨" alt="Dynamic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌸+Kanishmadhav+🌸;フルスタック開発者;Full-Stack+Developer+✨" alt="Dynamic Header" />
   
   <br />
   
@@ -112,9 +112,8 @@ Every project is a tribute to growth, love, and relentless curiosity.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=C44569&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+%F0%9F%9A%80;DM+your+craziest+idea+%F0%9F%92%A1;Coffee+chat%3F+I'm+always+in+%E2%98%95;Collaboration+%3D+Creation+magic" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff6b9d)](https://linkedin.com/in/kanishmadhav)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-c44569?style=for-the-badge&logo=firefox&logoColor=white)](https://kanishmadhav.dev)  
-[![Email](https://img.shields.io/badge/Email-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff6b9d)](https://www.linkedin.com/in/kanish-madhava-arutselvam-779937361)   
+[![Email](https://img.shields.io/badge/Email-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishmadhavguru@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kanishmadhav)
 
 </div>
@@ -124,8 +123,6 @@ Every project is a tribute to growth, love, and relentless curiosity.
 ## 🌸 Thanks for Visiting 🌸
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Thanks+for+visiting+my+digital+garden+🌸;✨+Every+star+fuels+my+code+✨;💖+Let's+code+the+future+together+💖;🚀+Dream+→+Code+→+Reality+🚀" />
 
 <img src="https://img.shields.io/badge/Made%20with-💖%20%26%20%E2%98%95-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Powered%20by-Anime%20%26%20Dreams-c44569?style=for-the-badge" />
